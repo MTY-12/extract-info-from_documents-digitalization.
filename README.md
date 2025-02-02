@@ -1,4 +1,4 @@
-# extract-info-from-documents-digitalization
+# AI-Powered Document Information Extraction and digitalization
 
 A project to extract, digitize, and classify information from documents using OCR and deep learning.
 
