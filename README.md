@@ -111,7 +111,7 @@ The project uses a dataset of scanned experiment test papers that includes:
 
 ## Contributors 👥
 
-- [Michael Yerdaw]: MDT 
+- [Michael Yerdaw]:MDT 
 - [Other Contributors]: 
 
 Open for Collaboration! Feel free to contribute to this repository.
