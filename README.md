@@ -126,5 +126,5 @@ This project is licensed under the MTY License. See the LICENSE file for details
 
 ## Contact 📬
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** mty_12@outlook.com  
+- **LinkedIn:** 
